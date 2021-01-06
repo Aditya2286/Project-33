@@ -1,4 +1,4 @@
-class Plinko {
+class Plinko{
     constructor(x, y) {
         var options = {
             restitution: 1,
